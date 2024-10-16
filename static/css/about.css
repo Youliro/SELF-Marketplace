@@ -112,3 +112,12 @@ h2 {
     margin-top: 20px;
     border-top: 5px solid #ff9800;
 }
+
+ul {
+    list-style-type: none;
+    padding-left: 0; /* Убирает отступ перед элементами списка */
+}
+
+li {
+    list-style-type: none; /* Убирает маркеры (точки) перед элементами списка */
+}
